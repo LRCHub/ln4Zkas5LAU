@@ -1,0 +1,84 @@
+# シーズ – Snowflake
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+The wind is blowing now
+Bringing a new season
+Waiting for
+街に降る初雪が
+窓の外 徐々に世界を
+優しく包むように
+Falling (Falling)
+白に染めあげていくの
+吸い込んだ息も冷たくて
+Feel like I'm freezing
+(I'm so freezing)
+それでも君のくれる温もり
+Precious to me
+心の中へ広がる愛で
+寒さも溶けるの
+Start the magic
+季節が来たわ
+Let the snow fall
+Let it snow more
+光集めて
+キラキラと踊るように
+降り注ぐ
+You make me glow
+I won't feel cold
+君がいるから
+この心輝くの ずっと
+Just like a snowflake
+儚く瞬くこのSnowflake
+夜空を照らすそう星のようで
+届きそうで
+届かないね
+一緒に見上げていた
+夢のひとかけらが
+降り積もる My heart
+消えないように
+Let the snow fall
+Let it snow more
+冬がささやく
+ヒラヒラと舞う雪に
+期待寄せて
+Feel you so close
+Wait for your voice
+君を想うたび
+ほら笑顔になれるの ずっと
+Just like a snowflake
+いつかこの雪も
+It won't last forever
+溶けてしまうこと
+I know, but even so
+次の季節来ても
+きっと二人は変わらない
+信じてるけど
+今だけは
+Let it snow more
+I just want more
+お願い やまないで
+冬の魔法とけないよう
+願いかけて
+Now sing this song
+I'm not alone
+何も怖くない
+叶うならこの瞬間(とき)はずっと
+Don't stop it now
+Let the snow fall
+Let it snow more
+光集めて
+キラキラと踊るように
+降り注ぐ (Fall down)
+You make me glow
+I won't feel cold
+君がいるから
+この心輝くの
+ずっと (snowflake snowflake)
+Just like a snowflake
+Snowflake snowflake snowflake
+Snowflake you can shine on me
+Snowflake snowflake snowflake
+Oh baby You're like a snowflake
+```
