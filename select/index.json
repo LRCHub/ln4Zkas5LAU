@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Snowflake",
+  "base_artist": "シーズ",
+  "createdAt": "2025-12-02T15:42:13.133626Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Snowflake",
+      "artist": "MEW",
+      "has_synced": true,
+      "path": "select/01_Snowflake_MEW.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Snowflake In A Hot World",
+      "artist": "Mercury Rev",
+      "has_synced": true,
+      "path": "select/02_Snowflake_In_A_Hot_World_Mercury_Rev.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SNOWFLAKE",
+      "artist": "Fish Narc",
+      "has_synced": true,
+      "path": "select/03_SNOWFLAKE_Fish_Narc.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Snowflake",
+      "artist": "Kate Bush",
+      "has_synced": true,
+      "path": "select/04_Snowflake_Kate_Bush.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hurt (Snowflake Radio Remix)",
+      "artist": "Christina Aguilera",
+      "has_synced": true,
+      "path": "select/05_Hurt_(Snowflake_Radio_Remix)_Christina_Aguilera.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Snowflake",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/06_Snowflake_Sia.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Snowflake",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/07_Snowflake_Sia.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Snowflake",
+      "artist": "Kate Bush",
+      "has_synced": true,
+      "path": "select/08_Snowflake_Kate_Bush.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Snowflake Fell (And It Felt Like a Kiss)",
+      "artist": "Glasvegas",
+      "has_synced": true,
+      "path": "select/09_A_Snowflake_Fell_(And_It_Felt_Like_a_Kiss)_Glasvegas.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Suzy Snowflake",
+      "artist": "Rosemary Clooney",
+      "has_synced": false,
+      "path": "select/10_Suzy_Snowflake_Rosemary_Clooney.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "snowflake (feat. Jaden & Sarcastic Sounds)",
+      "artist": "Powfu feat. Jaden & Sarcastic Sounds",
+      "has_synced": true,
+      "path": "select/11_snowflake_(feat._Jaden_&_Sarcastic_Sounds)_Powfu_feat._Jaden_&_Sarcastic_Sounds.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "snowflake (feat. Jaden & Sarcastic Sounds)",
+      "artist": "Powfu",
+      "has_synced": true,
+      "path": "select/12_snowflake_(feat._Jaden_&_Sarcastic_Sounds)_Powfu.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Snowflake",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/13_Snowflake_Sia.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Snowflake",
+      "artist": "Pears",
+      "has_synced": false,
+      "path": "select/14_Snowflake_Pears.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Snowflake",
+      "artist": "シーズ",
+      "has_synced": false,
+      "path": "select/pl_01_Snowflake_シーズ.txt"
+    }
+  ]
+}
